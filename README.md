@@ -11,6 +11,12 @@ In this homework you are required to classify species of plants (like the ones i
 ### Introduction
 In this homework, you are asked to correctly classify samples in the multivariate time series format. In other words, since this is a classification problem, the objective is to correctly map the information contained in the features calculated over time to their labels.
 
+## Academic year
+2022/2023
+
+## Final evaluation
+11/11
+
 ## Authors
 
 - [@TiaSirio](https://www.github.com/TiaSirio)
