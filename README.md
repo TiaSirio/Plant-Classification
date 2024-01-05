@@ -14,8 +14,10 @@ Embark on a journey to classify various species of plants. The challenge lies in
 
 ## Data Visualization 🌐
 
-Explore the realm of plant species with the provided data visualization:
+Explore the realm of plant species with the provided data visualization:<\br>
+ <center>
 ![Plant Species](https://github.com/TiaSirio/ANN_Challenges/blob/main/AN2DL_2022_hw1_examples.png?raw=true)
+ <\center>
 
 ## University Course 📖
 
