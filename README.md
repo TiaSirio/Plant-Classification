@@ -32,7 +32,7 @@ This is a project of the exam "Artificial Neural Network and Deep Learning" for 
 
 # Time Series Classification Challenge ⌛
 
-## Introduction 🕰️
+## Overview 🕰️
 
 Embark on a journey of mastering time series classification in this homework. Dive into the intricacies of classifying samples within a multivariate time series format. The challenge lies in accurately mapping temporal features to their corresponding labels.
 
